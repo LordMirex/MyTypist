@@ -1,7 +1,7 @@
 # MyTypist System Architecture
 
-**Version**: 1.0  
-**Last Updated**: September 15, 2025  
+**Version**: 1.0
+**Last Updated**: September 15, 2025
 **Status**: Production Ready
 
 ## Overview
@@ -15,7 +15,7 @@ MyTypist is a high-performance document automation SaaS platform designed specif
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Client Apps   │    │     Nginx       │    │  MyTypist API   │
 │                 │◄──►│  Load Balancer  │◄──►│   FastAPI       │
-│ React/Vue/Mobile│    │   + SSL/TLS     │    │  (Gunicorn +    │
+│ React + SSL/TLS │    │  (Gunicorn +    │
 └─────────────────┘    └─────────────────┘    │   Uvicorn)      │
                                               └─────────────────┘
                                                         │
@@ -59,10 +59,10 @@ MyTypist is a high-performance document automation SaaS platform designed specif
 ```python
 User (users)
 ├── id: Primary key
-├── username, email: Unique identifiers  
+├── username, email: Unique identifiers
 ├── role: GUEST | USER | MODERATOR | ADMIN
 ├── status: ACTIVE | INACTIVE | SUSPENDED
-├── security: 2FA, email verification
+├── security: email verification
 └── compliance: GDPR consent tracking
 ```
 
@@ -75,7 +75,7 @@ Template (templates)
 ├── metadata: Category, language, pricing
 └── analytics: Usage count, ratings
 
-Document (documents) 
+Document (documents)
 ├── id: Primary key
 ├── template_id: Reference to template
 ├── placeholder_data: User input values
@@ -294,7 +294,7 @@ Encryption at Rest + Transit
 
 For implementation details, refer to:
 - **[API Documentation](02_API_Documentation.md)** - Complete API reference
-- **[Integration Guide](03_Integration_Guide.md)** - Frontend integration examples  
+- **[Integration Guide](03_Integration_Guide.md)** - Frontend integration examples
 - **[Payment Integration](04_Payment_Integration.md)** - Flutterwave setup
 - **[Deployment Guide](05_Development_Deployment.md)** - Production deployment
 - **[Database Configuration](06_Database_Configuration.md)** - Database setup
