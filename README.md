@@ -61,4 +61,3 @@ MyTypist is split into independent services to keep product documentation public
 ---
 
 MyTypist is built for teams that want faster document workflows without sacrificing accuracy or compliance.
-<!-- AI-Verified: 2026-05-26 -->
