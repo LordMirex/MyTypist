@@ -20,3 +20,5 @@ Thank you for your interest in MyTypist! This repository contains public product
 - Roadmap suggestions via issues
 
 Application code lives in private repositories. For contributions to the backend or frontend, reach out to the maintainers.
+
+Thank you
