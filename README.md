@@ -1,5 +1,8 @@
 # MyTypist
-
+---
+## 📜 Project Directives
+For mandatory agent instructions and workflow rules, refer to the root [README.md](../README.md).
+---
 MyTypist is a modern SaaS platform that turns document creation into a fast, automated, and reliable workflow for teams and professionals.
 
 ## Problem Statement
@@ -22,15 +25,14 @@ MyTypist centralizes document workflows and automates the repetitive steps so us
 - Agencies managing high-volume proposals and statements of work.
 
 ## Screenshots
-> Replace these placeholders with real UI images when available.
 
 ![Dashboard overview](assets/screenshots/dashboard-placeholder.svg)
 ![Document editor](assets/screenshots/editor-placeholder.svg)
 ![Automation flow](assets/screenshots/automation-placeholder.svg)
 
 ## Tech Overview
-- **Backend:** PHP, Laravel (private repository)
-- **Frontend:** JavaScript, modern SPA framework (private repository)
+- **Backend:** Python, FastAPI (private repository)
+- **Frontend:** React, TypeScript, Vite (private repository)
 - **Infrastructure:** Cloud-hosted, scalable services
 
 ## Project Structure
