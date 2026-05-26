@@ -1,10 +1,37 @@
 <svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="750" fill="#F4F6F8"/>
   <rect x="80" y="80" width="1040" height="590" rx="16" fill="#FFFFFF" stroke="#D8DEE4" stroke-width="2"/>
-  <rect x="120" y="140" width="520" height="40" rx="8" fill="#EEF2F6"/>
-  <rect x="120" y="210" width="960" height="20" rx="6" fill="#EEF2F6"/>
-  <rect x="120" y="250" width="840" height="20" rx="6" fill="#EEF2F6"/>
-  <rect x="120" y="290" width="720" height="20" rx="6" fill="#EEF2F6"/>
-  <text x="120" y="115" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="#4B5563">Dashboard Overview (Placeholder)</text>
-  <text x="120" y="370" font-family="Arial, sans-serif" font-size="18" fill="#6B7280">Replace with production UI screenshot</text>
+  <rect x="120" y="120" width="200" height="32" rx="8" fill="#1A73E8"/>
+  <rect x="340" y="120" width="100" height="32" rx="8" fill="#E8F0FE"/>
+  <rect x="460" y="120" width="100" height="32" rx="8" fill="#E8F0FE"/>
+  <rect x="580" y="120" width="100" height="32" rx="8" fill="#E8F0FE"/>
+  <rect x="920" y="120" width="160" height="32" rx="16" fill="#1A73E8"/>
+  <rect x="120" y="180" width="320" height="160" rx="12" fill="#E8F0FE" stroke="#D2E3FC"/>
+  <text x="150" y="215" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#1A73E8">Documents Generated</text>
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#1A2933">1,247</text>
+  <text x="150" y="275" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">+12.5% from last month</text>
+  <rect x="470" y="180" width="320" height="160" rx="12" fill="#F0FDF4" stroke="#BBF7D0"/>
+  <text x="500" y="215" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#16A34A">Active Templates</text>
+  <text x="500" y="250" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#1A2933">36</text>
+  <text x="500" y="275" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">8 uploaded this week</text>
+  <rect x="820" y="180" width="260" height="160" rx="12" fill="#FFF7ED" stroke="#FED7AA"/>
+  <text x="850" y="215" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#EA580C">Token Balance</text>
+  <text x="850" y="250" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#1A2933">500</text>
+  <text x="850" y="275" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">~250 documents remaining</text>
+  <rect x="120" y="370" width="600" height="260" rx="12" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="150" y="405" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#4B5563">Recent Documents</text>
+  <line x1="150" y1="425" x2="690" y2="425" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="150" y="440" width="520" height="36" rx="6" fill="#F9FAFB"/>
+  <rect x="150" y="440" width="140" height="36" rx="6" fill="#EEF2F6"/>
+  <rect x="300" y="440" width="200" height="36" rx="6" fill="#EEF2F6"/>
+  <rect x="530" y="440" width="60" height="36" rx="6" fill="#EEF2F6"/>
+  <rect x="150" y="490" width="520" height="36" rx="6" fill="#F9FAFB"/>
+  <rect x="150" y="490" width="140" height="36" rx="6" fill="#EEF2F6"/>
+  <rect x="300" y="490" width="200" height="36" rx="6" fill="#EEF2F6"/>
+  <rect x="530" y="490" width="60" height="36" rx="6" fill="#EEF2F6"/>
+  <rect x="150" y="540" width="520" height="36" rx="6" fill="#F9FAFB"/>
+  <rect x="150" y="540" width="140" height="36" rx="6" fill="#EEF2F6"/>
+  <rect x="300" y="540" width="200" height="36" rx="6" fill="#EEF2F6"/>
+  <rect x="530" y="540" width="60" height="36" rx="6" fill="#EEF2F6"/>
+  <text x="120" y="115" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="#1A2933">Dashboard</text>
 </svg>
