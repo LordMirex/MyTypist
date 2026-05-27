@@ -267,7 +267,7 @@ See `SECURITY.md` for vulnerability reporting.
 
 ## Links
 
-- **Website:** https://mytypist.com (domain owned, deployment pending)
+- **Website:** https://mytypist.net (domain owned, deployment pending)
 - **Current Live Site:** https://zenvault.one
 - **Frontend:** Private repository
 - **Backend:** Private repository
